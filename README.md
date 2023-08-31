@@ -54,7 +54,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](#) at [Mansoura University](#).
+- :school: I am a `Junior` at [Faculty of Computers & Information Science ](#) at [Mansoura University](#).
 
 - :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate.
 
