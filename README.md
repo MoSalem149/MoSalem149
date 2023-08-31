@@ -22,6 +22,7 @@
 
 <!-- Bio section ends -->
 <!-- <hr> -->
+<br><br>
 <hr>
 <!-- Profile views section starts -->
 <h2 style="color: #44AEFB">Github Profile Views:</h2>
@@ -52,7 +53,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br><br><br><br><br><br>
 
 - :school: I am a `Junior` at [Faculty of Computers & Information Science ](#) at [Mansoura University](#).
 
@@ -197,10 +198,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosalem149&show_icons=true&locale=en" alt="mosalem149" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosalem149&" alt="mosalem149" /></p> -->
-
+<hr>
 <h2 align="left"  style="color: #44AEFB">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/MoSalem149"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MoSalem149" /></a><a href="https://ko-fi.com/MoSalem149"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MoSalem149" /></a></p><br><br>
+<p>
+    <a href="https://www.buymeacoffee.com/MoSalem149"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MoSalem149" />        </a>
+    <a href="https://ko-fi.com/MoSalem149"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MoSalem149" /></a>
+</p><br><br>
 <!-- Statistics section starts -->
+<br><br><br><br>
 <hr>
 <!--- snake -->
 <div align="center">
