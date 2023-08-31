@@ -19,12 +19,10 @@
   <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"><br><br>
 </a>
 <!-- Bio image section starts -->
-
 <!-- Bio section ends -->
-<!-- <hr> -->
-<br><br>
 <hr>
 <!-- Profile views section starts -->
+<br><br>
 <h2 style="color: #44AEFB">Github Profile Views:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=flat" alt="mosalem149" /> </p>
 <!-- Profile views section ends -->
