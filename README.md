@@ -1,13 +1,12 @@
 <!-- Header section starts -->
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px" alt="handimg"> ,I'm Mohamed Salem </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px" alt="handimg">,I'm Mohamed Salem </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="lineimg">
 <!-- Header section ends -->
 <hr>
 <!-- Bio section starts -->
 <h2 style="color: #44AEFB">Bio:</h2>
 <p align:"left" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
-<br><br>
+    I am a passionate, front end software developer. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.<br><br>
 <div align="center">
   <a href="mailto:mohamedwaelsalem149@gmail.com" target="_blank">
     <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
@@ -50,6 +49,26 @@
 
 
 <br>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](#) at [Mansoura University](#).
+
+- :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate.
+
+- :technologist: I love using Software as a solution for every `Problem`.
+
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+
+- :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
+
+- :nerd_face: Always `learning new things`.
+
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+
+- :boom: You can visit [MY WEBSITE](#).
 
 - 🔭 I’m currently working on **ITI-ST-REACTJS-Final-Project**
 
@@ -185,9 +204,9 @@
        alt="snake" /></a>
 </div>
 <!--- snake -->
-<hr>
+<!-- <hr> -->
 <!-- Live Images section starts -->
-Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
+<!-- Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -213,10 +232,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+</div> -->
 <!-- Live Images section ends -->
 
-<hr>
+<!-- <hr> -->
 
 
 <div align='center'>
@@ -228,6 +247,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 <!-- Footer section starts -->
 -----
 Credits: [Mohamed Salem](https://github.com/mosalem149)
+-----
+Last Edited on: 31/08/2023
 <!-- Footer section ends -->
 
 
