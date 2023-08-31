@@ -197,13 +197,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosalem149&" alt="mosalem149" /></p> -->
 <hr>
-<h2 align="left"  style="color: #44AEFB">Support:</h2>
+<h2 align="left" style="color: #44AEFB">Support:</h2>
 <p>
-    <a href="https://www.buymeacoffee.com/MoSalem149"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MoSalem149" />        </a>
-    <a href="https://ko-fi.com/MoSalem149"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MoSalem149" /></a>
-</p><br><br>
+    <a href="https://www.buymeacoffee.com/MoSalem149"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MoSalem149" /> </a>
+    <br><br><br><br>
+    <a href="https://ko-fi.com/MoSalem149"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MoSalem149" /> </a>
+</p><br>
+
 <!-- Statistics section starts -->
-<br><br><br><br>
+<br><br>
 <hr>
 <!--- snake -->
 <div align="center">
