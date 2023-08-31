@@ -46,8 +46,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/MoSalem149"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MoSalem149" /></a><a href="https://ko-fi.com/MoSalem149"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MoSalem149" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosalem149&show_icons=true&locale=en&layout=compact" alt="mosalem149" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosalem149&show_icons=true&locale=en" alt="mosalem149" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosalem149&" alt="mosalem149" /></p>
+<div class="stats" align="center">
+![Mohamed Salem's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mosalem149&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mosalem149&count_private=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=mosalem149&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
