@@ -104,13 +104,17 @@
 - **Languages**:
 
   ![Dart](https://img.shields.io/badge/Dart-beginnner-blue?style=for-the-badge&logo=dart&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-beginnner-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-beginnner-blue?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-beginnner-blue?style=for-the-badge&logo=c&logoColor=white)
+  ![Csharp](https://img.shields.io/badge/Csharp-beginnner-blue?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-beginnner-blue?style=for-the-badge&logo=java&logoColor=white)
 
 <br>
 
 - **Frameworks**:
 
   ![Flutter](https://img.shields.io/badge/Flutter-beginnner-%232370ED?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Reactjs](https://img.shields.io/badge/Reactjs-beginnner-%232370ED?style=for-the-badge&logo=reactjs&logoColor=white)
 
 <br>
 
