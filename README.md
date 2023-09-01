@@ -34,9 +34,9 @@
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mosalem149&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<!--         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosalem149" alt="mosalem149" /></a> -->
       </a>
   </div>
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosalem149" alt="mosalem149" /></a> -->
 </p>
 <!-- Profile Trophy section ends -->
 <!-- <p align="left"> <a href="https://twitter.com/@mohamed86203689" target="blank"><img src="https://img.shields.io/twitter/follow/@mohamed86203689?logo=twitter&style=for-the-badge" alt="@mohamed86203689" /></a> </p> -->
