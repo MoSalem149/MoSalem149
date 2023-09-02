@@ -6,6 +6,7 @@
 <hr>
 
 <!-- Bio Section Starts -->
+<h2>📑</h2>
 <h2 style="color: #44AEFB">Bio:</h2>
 <p align="left" style="text-align: justify; margin: 0 50px; font-size: 17px;">
   I am a passionate front-end software developer. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.<br><br>
@@ -25,6 +26,7 @@
 <hr>
 
 <!-- Profile Views Section Starts -->
+<h2>🔍</h2>
 <h2 style="color: #44AEFB">Github Profile Views:</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=flat" alt="mosalem149" />
@@ -36,6 +38,7 @@
 <br>
 
 <!-- Profile Trophy Section Starts -->
+<h2>🏆</h2>
 <h2 style="color: #44AEFB">Github Profile Trophy:</h2>
 <p align="center">
   <div align=center>
@@ -49,7 +52,7 @@
 <hr>
 
 <!-- About Me Section Starts -->
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture>
+<h2><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture></h2>
 <h2 style="color: #44AEFB">About Me:</h2>
 
 <br>
@@ -77,7 +80,7 @@
 <hr>
 
 <!-- Connect With Me Section Starts -->
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 <h2> Let's Connect..!</h2>
 <br>
 <p align="left">
@@ -105,7 +108,7 @@
 <hr>
 
 <!-- Skills Section Starts -->
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="skillsimg">
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="skillsimg"></h2>
 <h2> Skills: </h2>
 <br>
 
@@ -265,7 +268,7 @@
 <hr>
 
 <!-- Statistics Section Starts -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <h2> Github Statistics: </h2>
 
 <br>
