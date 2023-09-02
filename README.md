@@ -58,7 +58,7 @@
 
 <br><br><br><br><br><br><br><br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Information Science ](#) at [Mansoura University](#).
+- :school: I am a `Junior` at [Faculty of Computers & Information Science ](https://csifac.mans.edu.eg/index.php/en/) at [Mansoura University](https://www.mans.edu.eg/en).
 - :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
