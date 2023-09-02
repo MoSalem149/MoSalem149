@@ -59,7 +59,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 - :school: I am a `Junior` at [Faculty of Computers & Information Science ](https://csifac.mans.edu.eg/index.php/en/) at [Mansoura University](https://www.mans.edu.eg/en).
 - :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate.
