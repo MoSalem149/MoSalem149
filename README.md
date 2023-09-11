@@ -293,10 +293,10 @@
 <!--- Stats & Trophy Section Ends -->
 <!-- Statistics Section Ends -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- Support Section Starts -->
-<h2>💁‍♂️</h2>
+<!-- <h2>💁‍♂️</h2>
 <h2 style="color: #44AEFB">Support:</h2>
 <p align="center">
     <a href="https://www.buymeacoffee.com/MoSalem149">
@@ -306,10 +306,10 @@
     <a href="https://ko-fi.com/MoSalem149">
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MoSalem149 on Ko-fi" />
     </a>
-</p>
+</p> -->
 <!-- Support Section Ends -->
 
-<br><br>
+<!-- <br><br> -->
 
 <hr>
 
