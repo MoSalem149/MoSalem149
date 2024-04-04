@@ -338,7 +338,7 @@
 
 Credits: [Mohamed Salem](https://github.com/mosalem149)
 -----
-Last Edited on: 2/09/2023
+Last Edited on: 4/04/2024
 <!-- Author Section Ends -->
 
 <hr>
@@ -347,7 +347,7 @@ Last Edited on: 2/09/2023
 <footer>
   <h2>©</h2>
   <div style="text-align: center; background-color: #333; color: #fff; padding: 10px;">
-    &copy; 2023 MoSalem149. All Rights Reserved.
+    &copy; 2024 MoSalem149. All Rights Reserved.
   </div>
 </footer>
 <!-- Footer Section Ends -->
