@@ -152,7 +152,7 @@
 
     <br>
 
-    - **Frameworks**:
+  - **Frameworks**:
 
     ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -161,7 +161,7 @@
 
     <br>
 
-    - **Front-End Development**:
+- **Front-End Development**:
 
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -170,7 +170,7 @@
 
     <br>
 
-    - **Databases**:
+  - **Databases**:
 
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -182,7 +182,7 @@
 
     <br>
 
-    - **Software**:
+  - **Software**:
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Visual StudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -194,7 +194,7 @@
 
     <br>
 
-    - **Hardware**:
+  - **Hardware**:
 
     ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
     ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
