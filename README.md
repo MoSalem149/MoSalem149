@@ -20,10 +20,12 @@
         src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<br><br><br>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed-salem149"><img
             src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a>
-    <a href="mailto:salaheldin.fikrikamil@gmail.com"><img
+    <a href="mailto:mohamed.salem.dev.official@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 <p align="center"> Feel free to reach out to me on any of these platforms, I'd love to connect with you! </p>
@@ -31,7 +33,7 @@
 <!-- Bio Section Ends -->
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <hr>
 
 <!-- Profile Views Section Starts -->
@@ -141,7 +143,7 @@
 
 <p align="center">   
   
-  - **Languages**:
+- **Languages**:
 
     ![Dart](https://img.shields.io/badge/Dart-beginnner-blue?style=for-the-badge&logo=dart&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-beginnner-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -152,7 +154,7 @@
 
     <br>
 
-  - **Frameworks**:
+- **Frameworks**:
 
     ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -170,19 +172,19 @@
 
     <br>
 
-  - **Databases**:
+- **Databases**:
 
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
     <br>
 
-    - **Cloud Hosting**:
+- **Cloud Hosting**:
 
     ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
     <br>
 
-  - **Software**:
+- **Software**:
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Visual StudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -194,7 +196,7 @@
 
     <br>
 
-  - **Hardware**:
+- **Hardware**:
 
     ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
     ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -209,7 +211,6 @@
 
 <!-- Languages And Tools Section Starts -->
 <h2 style="color: #44AEFB">⚙️ Languages and Tools:</h2>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
 <p align="left">
     <!-- Web Development Core Technologies -->
@@ -318,7 +319,7 @@
 <hr>
 <h2>📈 Latest Activity Graph: </h2>
 <br>
-<h2 align="center">Latest Contribution</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Latest Contribution</h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Mohamed's Activity Graph"
         src="https://github-readme-activity-graph.vercel.app/graph?username=MoSalem149&theme=github-compact&hide_border=true">
@@ -352,7 +353,7 @@
 
 Credits: [👤Mohamed Salem](https://github.com/mosalem149)
 -----
-Last Edited on: 7/04/2024
+Last Edited on: 8/04/2024
 <!-- Author Section Ends -->
 
 <hr>
