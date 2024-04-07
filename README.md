@@ -19,6 +19,9 @@
     <img align="right" style="position: relative; top: 500px; height: 250px; width: 400px;" alt="GIF"
         src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"><br><br>
 </a>
+
+<br>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed-salem149"><img
             src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a>
