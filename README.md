@@ -84,7 +84,8 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1CZ8u3M9mzIMS_mSfw6sGQPP99ogW9tv4/view?usp=drive_link).
+- :briefcase: - 🚀 Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](#).
 - 🔭 I’m currently working on **Graduation-Project**
 - 🌱 I’m currently learning **ReactJs**
