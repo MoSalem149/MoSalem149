@@ -1,3 +1,7 @@
+<!-- CV Section Starts -->
+<a href="https://drive.google.com/file/d/1D9TEI57zfwsEeE_J8ZxAd7yHkVrZudOa/view?usp=drive_link" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/assests/img/cv.png" alt="My CV" width="70" ></a>
+<!-- CV Section End -->
+
 <!-- Header Section Starts -->
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img
         src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="handimg">, I'm
