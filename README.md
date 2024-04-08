@@ -1,5 +1,5 @@
 <!-- CV Section Starts -->
-<a href="https://drive.google.com/file/d/1D9TEI57zfwsEeE_J8ZxAd7yHkVrZudOa/view?usp=drive_link" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/Assets/img/cv.png" alt="My CV" width="70" ></a>
+<a href="https://drive.google.com/file/d/1D9TEI57zfwsEeE_J8ZxAd7yHkVrZudOa/view?usp=drive_link" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/Assets/cv.png" alt="My CV" width="70" ></a>
 <!-- CV Section End -->
 
 <!-- Header Section Starts -->
