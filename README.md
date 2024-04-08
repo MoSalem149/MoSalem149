@@ -1,5 +1,5 @@
 <!-- CV Section Starts -->
-<a href="https://drive.google.com/file/d/1D9TEI57zfwsEeE_J8ZxAd7yHkVrZudOa/view?usp=drive_link" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/Assets/cv.png" alt="My CV" width="70" ></a>
+<a href="https://drive.google.com/file/d/1RJz5DrXsJH79rHO97CoEJ57L1UbOAdR6/view?usp=sharing" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/Assets/cv.png" alt="My CV" width="70" ></a>
 <!-- CV Section End -->
 
 <!-- Header Section Starts -->
@@ -88,7 +88,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1CZ8u3M9mzIMS_mSfw6sGQPP99ogW9tv4/view?usp=drive_link).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hw4maSqPz0yWxfCPuXOkCAw9bhf07uXj/view?usp=drive_link).
 - :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](#).
 - 🔭 I’m currently working on **Graduation-Project**
