@@ -89,7 +89,8 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hw4maSqPz0yWxfCPuXOkCAw9bhf07uXj/view?usp=drive_link).
-- :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=drive_link).
+- :page_facing_up: I'm excited to apply for the position at your company. Here is [MY COVER LETTER](https://drive.google.com/file/d/your_generated_link_here/view?usp=sharing).
+- :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](#).
 - 🔭 I’m currently working on **Graduation-Project**
 - 🌱 I’m currently learning **ReactJs**
@@ -358,7 +359,7 @@
 
 Credits: [👤Mohamed Salem](https://github.com/mosalem149)
 -----
-Last Edited on: 8/04/2024
+Last Edited on: 18/04/2024
 <!-- Author Section Ends -->
 
 <hr>
