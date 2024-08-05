@@ -1,3 +1,7 @@
+<!-- Header Section Starts -->
+<img src="" width="100%" />
+<!-- Header Section Starts -->
+
 <!-- CV Section Starts -->
 <a href="https://drive.google.com/file/d/13q3hzSw1ThDjEs9UkQel4YvwptsTt2yf/view?usp=drivesdk" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/Assets/cv.png" alt="My CV" width="70" ></a>
 <!-- CV Section End -->
@@ -362,6 +366,10 @@ Last Edited on: 18/04/2024
 <!-- Author Section Ends -->
 
 <hr>
+
+<!-- Bottom Section Starts -->
+<img src="" width="100%" />
+<!-- Bottom Section Starts -->
 
 <!-- Footer Section Starts -->
 <footer>
