@@ -73,41 +73,35 @@
 
 <!-- About Me Section Starts -->
 <h2 style="color: #44AEFB">
-    <picture><img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png"
-            width="30px"></picture> About Me:
+    <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30px">  About Me:
 </h2>
 
-<br>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
-        width="250px"></picture>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-- :school: I am a `Junior` at [Faculty of Computers & Information Science ](https://csifac.mans.edu.eg/index.php/en/) at
-[Mansoura University](https://www.mans.edu.eg/en).
-- :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate, 2x `IBM` Certificate, `Udemy` Certificate.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hw4maSqPz0yWxfCPuXOkCAw9bhf07uXj/view?usp=drive_link).
-- :page_facing_up: I'm excited to apply for the position at your company. Here is [MY COVER LETTER](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing).
-- :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](#).
-- 🔭 I’m currently working on **Graduation-Project**
-- 🌱 I’m currently learning **ReactJs**
-- 👯 I’m looking to collaborate on **Graduation-Project**
-- 🤝 I’m looking for help with **Graduation-Project**
-- 💬 Ask me about **HTML5, CSS3, JS, REACTJS, SaaS, jQuery, Bootstrap**
-- 📫 How to reach me **mohamed.salem.dev.official@gmail.com**
+<ul>
+    <li>:school: I am a <b>Junior</b> at <a href="https://csifac.mans.edu.eg/index.php/en/">Faculty of Computers & Information Science</a> at <a href="https://www.mans.edu.eg/en/">Mansoura University</a>.</li>
+    <li>:trophy: 1x <b>IoT</b> Certificate, 1x <b>ITI-ST</b> Certificate, 2x <b>IBM</b> Certificate, <b>Udemy</b> Certificate.</li>
+    <li>:technologist: I love using Software as a solution for every <b>Problem</b>.</li>
+    <li>:computer: I am a competitive programmer at <b>Codeforces, Atcoder, Leetcode, Codechef, Google Contests</b>.</li>
+    <li>:student: I’m currently learning <b>Computer Science</b> and <b>Software Engineering, Front end Developer</b>.</li>
+    <li>:nerd_face: Always <b>learning new things</b>.</li>
+    <li>:thinking: I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1hw4maSqPz0yWxfCPuXOkCAw9bhf07uXj/view?usp=drive_link">MY RESUME</a>.</li>
+    <li>:page_facing_up: I'm excited to apply for the position at your company. Here is <a href="https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing">MY COVER LETTER</a>.</li>
+    <li>:briefcase: Open to fresh <b>tech challenges</b> here is my persona <a href="https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing">USER PERSONA</a>.</li>
+    <li>:boom: You can visit <a href="https://salems-space-portfolio.netlify.app/">MY WEBSITE</a>.</li>
+    <li>🔭 I’m currently working on <b>Graduation-Project</b></li>
+    <li>🌱 I’m currently learning <b>ReactJs</b></li>
+    <li>👯 I’m looking to collaborate on <b>Graduation-Project</b></li>
+    <li>🤝 I’m looking for help with <b>Graduation-Project</b></li>
+    <li>💬 Ask me about <b>HTML5, CSS3, JS, REACTJS, SaaS, jQuery, Bootstrap</b></li>
+    <li>📫 How to reach me: <a href="mailto:mohamed.salem.dev.official@gmail.com"><b>mohamed.salem.dev.official@gmail.com</b></a></li>
+</ul>
 <!-- About Me Section Ends -->
 
 <hr>
 
 <!-- Connect With Me Section Starts -->
-<h2> 📫 Let's Connect..!</h2>
+<h2> ☎️ Let's Connect..!</h2>
 <br>
 <p align="left">
     <a href="https://twitter.com/@mohamed86203689" target="blank">
@@ -340,9 +334,7 @@
 <!-- Snake Game Starts -->
 <h2>🐍</h2>
 <div align="center">
-    <a href="https://1999azzar.github.io/1999AZZAR/">
-        <img src="Assets/github-contribution-grid-snake.svg" alt="snake">
-    </a>
+        <img alt="github-snake" src="Assets/github-contribution-grid-snake-dark.svg">
 </div>
 <!-- Snake Game Ends -->
 
