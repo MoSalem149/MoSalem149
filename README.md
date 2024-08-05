@@ -1,3 +1,7 @@
+<!-- Header Section Starts -->
+<img src="Assets/header.svg" width="100%" />
+<!-- Header Section Starts -->
+
 <!-- CV Section Starts -->
 <a href="https://drive.google.com/file/d/13q3hzSw1ThDjEs9UkQel4YvwptsTt2yf/view?usp=drivesdk" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/Assets/cv.png" alt="My CV" width="70" ></a>
 <!-- CV Section End -->
@@ -337,7 +341,7 @@
 <h2>🐍</h2>
 <div align="center">
     <a href="https://1999azzar.github.io/1999AZZAR/">
-        <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+        <img src="Assets/github-contribution-grid-snake.svg" alt="snake">
     </a>
 </div>
 <!-- Snake Game Ends -->
@@ -371,3 +375,8 @@ Last Edited on: 18/04/2024
     </div>
 </footer>
 <!-- Footer Section Ends -->
+
+
+<!-- Bottom Section Starts -->
+<img src="Assets/bottom.svg" width="100%" />
+<!-- Bottom Section Starts -->
