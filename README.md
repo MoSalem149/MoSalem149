@@ -1,5 +1,5 @@
 <!-- Header Section Starts -->
-<img src="" width="100%" />
+<img src="Assets/header.svg" width="100%" />
 <!-- Header Section Starts -->
 
 <!-- CV Section Starts -->
@@ -341,7 +341,7 @@
 <h2>🐍</h2>
 <div align="center">
     <a href="https://1999azzar.github.io/1999AZZAR/">
-        <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+        <img src="Assets/github-contribution-grid-snake.svg" alt="snake">
     </a>
 </div>
 <!-- Snake Game Ends -->
@@ -367,10 +367,6 @@ Last Edited on: 18/04/2024
 
 <hr>
 
-<!-- Bottom Section Starts -->
-<img src="" width="100%" />
-<!-- Bottom Section Starts -->
-
 <!-- Footer Section Starts -->
 <footer>
     <h2>© Footer:</h2>
@@ -379,3 +375,8 @@ Last Edited on: 18/04/2024
     </div>
 </footer>
 <!-- Footer Section Ends -->
+
+
+<!-- Bottom Section Starts -->
+<img src="Assets/bottom.svg" width="100%" />
+<!-- Bottom Section Starts -->
