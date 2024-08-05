@@ -69,8 +69,8 @@
 
 <!-- About Me Section Starts -->
 <h2 style="color: #44AEFB">
-    <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
-            width="50px"></picture> About Me:
+    <picture><img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png"
+            width="30px"></picture> About Me:
 </h2>
 
 <br>
