@@ -76,7 +76,7 @@
     <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30px">  About Me:
 </h2>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%" height="450px">
 
 <ul>
     <li>:school: I am a <b>Junior</b> at <a href="https://csifac.mans.edu.eg/index.php/en/">Faculty of Computers & Information Science</a> at <a href="https://www.mans.edu.eg/en/">Mansoura University</a>.</li>
