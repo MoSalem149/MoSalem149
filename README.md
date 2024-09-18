@@ -3,17 +3,18 @@
 <!-- Header Section Starts -->
 
 <!-- CV Section Starts -->
-<a href="https://drive.google.com/file/d/13q3hzSw1ThDjEs9UkQel4YvwptsTt2yf/view?usp=drivesdk" target="_blank"><img align="right" src="https://github.com/MoSalem149/MoSalem149/blob/main/Assets/cv.png" alt="My CV" width="70" ></a>
+
+<a href="https://drive.google.com/file/d/13q3hzSw1ThDjEs9UkQel4YvwptsTt2yf/view?usp=drivesdk" target="_blank"><img align="right" src="Assets/cv.png" alt="My CV" width="70" ></a>
+
 <!-- CV Section End -->
 
 <!-- Header Section Starts -->
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img
-        src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="handimg">, I'm
+        src="Assets/Hi_wave.gif" width="30px" alt="handimg">, I'm
     Mohamed Salem </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+<img src="Assets/light_line.gif"
     alt="lineimg">
 <!-- Header Section Ends -->
-
 
 <!-- Bio Section Starts -->
 <h2 style="color: #44AEFB">📑 Bio:</h2>
@@ -25,29 +26,29 @@
 <!-- Bio Image Section Starts -->
 <a target="_blank" align="right">
     <img align="right" style="position: relative; top: 500px; height: 250px; width: 400px;" alt="GIF"
-        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+        src="Assets/bio_section_image.webp">
 </a>
 
 <br><br><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed-salem149"><img
-            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a>
+            src="Assets/linkedIn_image.svg" /> </a>
     <a href="mailto:mohamed.salem.dev.official@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+            src="Assets/gmail_image.svg" /></a>
 </div>
 <p align="center"> Feel free to reach out to me on any of these platforms, I'd love to connect with you! </p>
 <!-- Bio Image Section Ends -->
 <!-- Bio Section Ends -->
 
-
 <br><br><br><br><br>
+
 <hr>
 
 <!-- Profile Views Section Starts -->
 <h2 style="color: #44AEFB">🔍 Github Profile Views:</h2>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=for-the-badge"
         alt="mosalem149" />
 </p>
 <!-- Profile Views Section Ends -->
@@ -60,11 +61,9 @@
 <h2 style="color: #44AEFB">🏆 Github Profile Trophy:</h2>
 <p align="center">
 <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width="84%"
-            src="https://github-profile-trophy.vercel.app/?username=mosalem149&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
-            alt="TROPHY" />
-    </a>
+        <img align="center" width="90%"
+            src="https://github-profile-trophy.vercel.app/?username=mosalem149&theme=radical&row=1&column=8&margin-h=15&margin-w=5&no-bg=true"
+            alt="TROPHY" />      
 </div>
 </p>
 <!-- Profile Trophy Section Ends -->
@@ -73,56 +72,61 @@
 
 <!-- About Me Section Starts -->
 <h2 style="color: #44AEFB">
-    <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30px">  About Me:
+    <picture><img src="Assets/male.png"
+            width="30px"></picture> About Me:
 </h2>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%" height="450px">
+<br>
 
-<ul>
-    <li>:school: I am a <b>Junior</b> at <a href="https://csifac.mans.edu.eg/index.php/en/">Faculty of Computers & Information Science</a> at <a href="https://www.mans.edu.eg/en/">Mansoura University</a>.</li>
-    <li>:trophy: 1x <b>IoT</b> Certificate, 1x <b>ITI-ST</b> Certificate, 2x <b>IBM</b> Certificate, <b>Udemy</b> Certificate.</li>
-    <li>:technologist: I love using Software as a solution for every <b>Problem</b>.</li>
-    <li>:computer: I am a competitive programmer at <b>Codeforces, Atcoder, Leetcode, Codechef, Google Contests</b>.</li>
-    <li>:student: I’m currently learning <b>Computer Science</b> and <b>Software Engineering, Front end Developer</b>.</li>
-    <li>:nerd_face: Always <b>learning new things</b>.</li>
-    <li>:thinking: I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1hw4maSqPz0yWxfCPuXOkCAw9bhf07uXj/view?usp=drive_link">MY RESUME</a>.</li>
-    <li>:page_facing_up: I'm excited to apply for the position at your company. Here is <a href="https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing">MY COVER LETTER</a>.</li>
-    <li>:briefcase: Open to fresh <b>tech challenges</b> here is my persona <a href="https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing">USER PERSONA</a>.</li>
-    <li>:boom: You can visit <a href="https://salems-space-portfolio.netlify.app/">MY WEBSITE</a>.</li>
-    <li>🔭 I’m currently working on <b>Graduation-Project</b></li>
-    <li>🌱 I’m currently learning <b>ReactJs</b></li>
-    <li>👯 I’m looking to collaborate on <b>Graduation-Project</b></li>
-    <li>🤝 I’m looking for help with <b>Graduation-Project</b></li>
-    <li>💬 Ask me about <b>HTML5, CSS3, JS, REACTJS, SaaS, jQuery, Bootstrap</b></li>
-    <li>📫 How to reach me: <a href="mailto:mohamed.salem.dev.official@gmail.com"><b>mohamed.salem.dev.official@gmail.com</b></a></li>
-</ul>
+<picture> <img align="right" src="Assets/Right_Side.gif"
+        width="250px"></picture>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+- :school: I am a `Junior` at [Faculty of Computers & Information Science ](https://csifac.mans.edu.eg/index.php/en/) at
+  [Mansoura University](https://www.mans.edu.eg/en).
+- :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate, 2x `IBM` Certificate, `Udemy` Certificate.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AkdpgNw1ke3r2ZnSMhHnBMQRYTRGGTbK/view?usp=drive_link).
+- :page_facing_up: I'm excited to apply for the position at your company. Here is [MY COVER LETTER](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing).
+- :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://salems-space-portfolio.netlify.app/).
+- 🔭 I’m currently working on **Graduation-Project**
+- 🌱 I’m currently learning **ReactJs**
+- 👯 I’m looking to collaborate on **Graduation-Project**
+- 🤝 I’m looking for help with **Graduation-Project**
+- 💬 Ask me about **HTML5, CSS3, JS, REACTJS, SaaS, jQuery, Bootstrap**
+- 📫 How to reach me **mohamed.salem.dev.official@gmail.com**
 <!-- About Me Section Ends -->
 
 <hr>
 
 <!-- Connect With Me Section Starts -->
-<h2> ☎️ Let's Connect..!</h2>
+<h2> 📫 Let's Connect..!</h2>
 <br>
 <p align="left">
-    <a href="https://twitter.com/@mohamed86203689" target="blank">
+    <a href="https://x.com/MohamedSalem149" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="@mohamed86203689" height="30" width="40" />
+            alt="@MohamedSalem149" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/mohamed salem" target="blank">
+    <a href="https://www.linkedin.com/in/mohamed-salem149" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mohamed salem" height="30" width="40" />
+            alt="mohamed-salem149" height="30" width="40" />
     </a>
     <a href="https://fb.com/mohamed salem" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="mohamed salem" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/mohamed salem" target="blank">
+    <a href="https://www.instagram.com/mohamed_salem149?igsh=NHlwaGViamQ1MDF5" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mohamed salem" height="30" width="40" />
+            alt="@mohamed_salem149" height="30" width="40" />
     </a>
     <a href="https://codeforces.com/profile/mohamedsalem9" target="blank">
         <img align="center"
@@ -140,7 +144,7 @@
 <hr>
 
 <!-- Skills Section Starts -->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+<h2><img src="Assets/tag-emoji.webp"
         width="25" alt="skillsimg"> Skills: </h2>
 <br>
 
@@ -159,53 +163,52 @@
 
 - **Frameworks**:
 
-    ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-    ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
     <br>
 
 - **Front-End Development**:
 
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![ECMAScript](https://img.shields.io/badge/ECMAScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![ECMAScript](https://img.shields.io/badge/ECMAScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
 
     <br>
 
 - **Databases**:
 
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
     <br>
 
 - **Cloud Hosting**:
 
-    ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
     <br>
 
 - **Software**:
 
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Visual StudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-    ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=github&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-    ![Microsoft SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Visual StudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=github&logoColor=white)
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+  ![Microsoft SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
     <br>
 
 - **Hardware**:
 
-    ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
-    ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
-    ![Dell](https://img.shields.io/badge/dell-black?style=for-the-badge&logo=dell&logoColor=white)
-    ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
-  
+  ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
+  ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![Dell](https://img.shields.io/badge/dell-black?style=for-the-badge&logo=dell&logoColor=white)
+  ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
 
 </p>
 <!-- Skills Section Ends -->
@@ -274,10 +277,9 @@
     </a>
 </p>
 
-
 <!-- Github Summary Section Starts -->
 <p align="center">
-    <a href="https://github.com/1999AZZAR/">
+    <a href="https://github.com/mosalem149/">
         <img width="45%"
             src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosalem149&theme=gruvbox&layout=compact&hide_border=true"
             alt="1999AZZAR :: Top Langs by repo" />
@@ -292,7 +294,7 @@
 <hr>
 
 <!-- Statistics Section Starts -->
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistics: </h2>
+<h2><img src="Assets/statistics-emoji.webp" width="35"> Github Statistics: </h2>
 
 <br>
 
@@ -322,8 +324,8 @@
 <hr>
 <h2>📈 Latest Activity Graph: </h2>
 <br>
-<h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Latest Contribution</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<h2 align="center"><img src="Assets/emoji-star.webp" width="30px">&nbsp;Latest Contribution</h2>
+<a href="https://github.com/mosalem149/">
     <img alt="Mohamed's Activity Graph"
         src="https://github-readme-activity-graph.vercel.app/graph?username=MoSalem149&theme=github-compact&hide_border=true">
 </a>
@@ -334,7 +336,9 @@
 <!-- Snake Game Starts -->
 <h2>🐍</h2>
 <div align="center">
-        <img alt="github-snake" src="Assets/github-contribution-grid-snake-dark.svg">
+    <a href="https://github.com/mosalem149/">
+        <img src="Assets/github-contribution-grid-snake-light.svg" alt="snake">
+    </a>
 </div>
 <!-- Snake Game Ends -->
 
@@ -350,11 +354,10 @@
 
 <!-- Author  Section Starts -->
 
+## Credits: [👤Mohamed Salem](https://github.com/mosalem149)
 
+Last Edited on: 18/09/2024
 
-Credits: [👤Mohamed Salem](https://github.com/mosalem149)
------
-Last Edited on: 18/04/2024
 <!-- Author Section Ends -->
 
 <hr>
@@ -367,7 +370,6 @@ Last Edited on: 18/04/2024
     </div>
 </footer>
 <!-- Footer Section Ends -->
-
 
 <!-- Bottom Section Starts -->
 <img src="Assets/bottom.svg" width="100%" />
