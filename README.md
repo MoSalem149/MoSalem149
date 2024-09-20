@@ -4,7 +4,7 @@
 
 <!-- CV Section Starts -->
 
-<a href="https://drive.google.com/file/d/1VILbMSWk39_F0UvGt9EQ1-JT90FVenOT/view?usp=sharing" target="_blank"><img align="right" src="Assets/cv.png" alt="My CV" width="70" ></a>
+<a href="https://drive.google.com/file/d/1VILbMSWk39_F0UvGt9EQ1-JT90FVenOT/view?usp=drive_link" target="_blank"><img align="right" src="Assets/cv.png" alt="My CV" width="70" ></a>
 
 <!-- CV Section End -->
 
@@ -90,7 +90,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1DstCOg2Ct3e3_lG-3ZCG_4Cx7GL45O0u/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1J9Ugeqs-W-pYH-qkredk5JG1A_XK9ozM/view?usp=sharing).
 - :page_facing_up: I'm excited to apply for the position at your company. Here is [MY COVER LETTER](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing).
 - :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://salems-space-portfolio.netlify.app/).
