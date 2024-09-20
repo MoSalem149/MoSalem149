@@ -4,7 +4,7 @@
 
 <!-- CV Section Starts -->
 
-<a href="https://drive.google.com/file/d/1VILbMSWk39_F0UvGt9EQ1-JT90FVenOT/view?usp=drive_link" target="_blank"><img align="right" src="Assets/cv.png" alt="My CV" width="70" ></a>
+<a href="https://drive.google.com/file/d/1i5GkPIFMHBO7qxmiGQkh1S4cJmd13axU/view?usp=sharing" target="_blank"><img align="right" src="Assets/cv.png" alt="My CV" width="70" ></a>
 
 <!-- CV Section End -->
 
