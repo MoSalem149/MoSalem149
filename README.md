@@ -10,16 +10,16 @@
 
 <!-- Header Section Starts -->
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img
-        src="Assets/Hi_wave.gif" width="30px" alt="handimg">, I'm
+        src="Assets/Hi_wave.gif" width="30px" alt="hand img">, I'm
     Mohamed Salem </h1>
 <img src="Assets/light_line.gif"
-    alt="lineimg">
+    alt="line img">
 <!-- Header Section Ends -->
 
 <!-- Bio Section Starts -->
 <h2 style="color: #44AEFB">📑 Bio:</h2>
 <p align="left" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-    I am a passionate front-end software developer. My aim is to make people's lives better & easier by developing
+    I am a passionate front-end software developer. I aim to make people's lives better & easier by developing
     applications and websites. I also love to teach coding as I believe that programming can empower people to achieve
     their full potential and live a better life.<br><br>
 </p>
@@ -37,7 +37,7 @@
     <a href="mailto:mohamed.salem.dev.official@gmail.com"><img
             src="Assets/gmail_image.svg" /></a>
 </div>
-<p align="center"> Feel free to reach out to me on any of these platforms, I'd love to connect with you! </p>
+<p align="center"> Feel free to contact me on any of these platforms, I'd love to connect with you! </p>
 <!-- Bio Image Section Ends -->
 <!-- Bio Section Ends -->
 
@@ -46,7 +46,7 @@
 <hr>
 
 <!-- Profile Views Section Starts -->
-<h2 style="color: #44AEFB">🔍 Github Profile Views:</h2>
+<h2 style="color: #44AEFB">🔍 GitHub Profile Views:</h2>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=for-the-badge"
         alt="mosalem149" />
@@ -58,7 +58,7 @@
 <br>
 
 <!-- Profile Trophy Section Starts -->
-<h2 style="color: #44AEFB">🏆 Github Profile Trophy:</h2>
+<h2 style="color: #44AEFB">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
 <div align=center>
         <img align="center" width="90%"
@@ -87,17 +87,17 @@
   [Mansoura University](https://www.mans.edu.eg/en).
 - :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate, 2x `IBM` Certificate, `Udemy` Certificate.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front End Developer`, `React Web Developer`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1X5CE-QghCRl-rs9434EBEuT0nL-hlWWt/view?usp=sharing).
 - :page_facing_up: I'm excited to apply for the position at your company. Here is [MY COVER LETTER](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing).
 - :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://salems-space-portfolio.netlify.app/).
-- 🔭 I’m currently working on **Graduation-Project**
-- 🌱 I’m currently learning **ReactJs**
-- 👯 I’m looking to collaborate on **Graduation-Project**
-- 🤝 I’m looking for help with **Graduation-Project**
+- 🔭 I’m currently working on **Graduation-Project fro DEBI Internship**
+- 🌱 I’m currently learning **MERN Full Stack**
+- 👯 I’m looking to collaborate on **Freelance Projects**
+- 🤝 I’m looking for help with **Improvement Projects**
 - 💬 Ask me about **HTML5, CSS3, JS, REACTJS, SaaS, jQuery, Bootstrap**
 - 📫 How to reach me **mohamed.salem.dev.official@gmail.com**
 <!-- About Me Section Ends -->
@@ -145,7 +145,7 @@
 
 <!-- Skills Section Starts -->
 <h2><img src="Assets/tag-emoji.webp"
-        width="25" alt="skillsimg"> Skills: </h2>
+        width="25" alt="skills img"> Skills: </h2>
 <br>
 
 <p align="center">   
@@ -356,7 +356,7 @@
 
 ## Credits: [👤Mohamed Salem](https://github.com/mosalem149)
 
-Last Edited on: 18/09/2024
+Last Edited on: 21/10/2024
 
 <!-- Author Section Ends -->
 
