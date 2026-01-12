@@ -61,7 +61,7 @@
 <h2 style="color: #44AEFB">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
 <div align=center>
-        <img align="center" width="90%"
+        <img align="center" width="25%"
             src="Assets/trophy.png"
             alt="TROPHY" />      
 </div>
