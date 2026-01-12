@@ -37,7 +37,7 @@
     <a href="mailto:mohamed.salem.dev.official@gmail.com"><img
             src="Assets/gmail_image.svg" /></a>
 </div>
-<p align="center"> Feel free to contact me on any of these platforms, I'd love to connect with you! </p>
+<p align="center"> Feel free to contact me on any of these platforms. I'd love to connect with you! </p>
 <!-- Bio Image Section Ends -->
 <!-- Bio Section Ends -->
 
@@ -62,7 +62,7 @@
 <p align="center">
 <div align=center>
         <img align="center" width="25%"
-            src="https://github-profile-trophy.vercel.app/?MoSalem149=ryo-ma&theme=radical"
+            src="https://github-profile-trophy.vercel.app/?mosalem149=ryo-ma&theme=radical"
             alt="TROPHY" />      
 </div>
 </p>
