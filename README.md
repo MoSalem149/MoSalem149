@@ -62,7 +62,7 @@
 <p align="center">
 <div align=center>
         <img align="center" width="90%"
-            src="https://github-profile-trophy.vercel.app/?username=mosalem149&theme=radical&row=1&column=8&margin-h=15&margin-w=5&no-bg=true"
+            src="Assets/trophy.png"
             alt="TROPHY" />      
 </div>
 </p>
