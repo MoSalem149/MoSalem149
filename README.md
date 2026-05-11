@@ -1,376 +1,346 @@
 <!-- Header Section Starts -->
-<img src="Assets/header.svg" width="100%" />
-<!-- Header Section Starts -->
+<img src="Assets/header.svg" width="100%" alt="Header banner" />
+<!-- Header Section Ends -->
 
 <!-- CV Section Starts -->
+<a href="https://drive.google.com/file/d/1i5GkPIFMHBO7qxmiGQkh1S4cJmd13axU/view?usp=sharing" target="_blank">
+  <img align="right" src="Assets/cv.png" alt="My CV" width="70" />
+</a>
+<!-- CV Section Ends -->
 
-<a href="https://drive.google.com/file/d/1i5GkPIFMHBO7qxmiGQkh1S4cJmd13axU/view?usp=sharing" target="_blank"><img align="right" src="Assets/cv.png" alt="My CV" width="70" ></a>
-
-<!-- CV Section End -->
-
-<!-- Header Section Starts -->
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img
-        src="Assets/Hi_wave.gif" width="30px" alt="hand img">, I'm
-    Mohamed Salem </h1>
-<img src="Assets/light_line.gif"
-    alt="line img">
-<!-- Header Section Ends -->
+<!-- Intro Section Starts -->
+<h1 style="color: #44AEFB;">
+  👨🏻‍💻 Hey <img src="Assets/Hi_wave.gif" width="30px" alt="Waving hand" />, I'm Mohamed Salem
+</h1>
+<img src="Assets/light_line.gif" alt="Divider line" />
+<!-- Intro Section Ends -->
 
 <!-- Bio Section Starts -->
 <h2 style="color: #44AEFB">📑 Bio:</h2>
 <p align="left" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-    I am a passionate front-end software developer. I aim to make people's lives better & easier by developing
-    applications and websites. I also love to teach coding as I believe that programming can empower people to achieve
-    their full potential and live a better life.<br><br>
+  I am a passionate full-stack software developer who enjoys building applications and websites that make people's lives easier.
+  I also enjoy teaching coding because I believe programming empowers people to solve problems and create opportunities.
 </p>
-<!-- Bio Image Section Starts -->
-<a target="_blank" align="right">
-    <img align="right" style="position: relative; top: 500px; height: 250px; width: 400px;" alt="GIF"
-        src="Assets/bio_section_image.webp">
-</a>
-
-<br><br><br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/mohamed-salem149"><img
-            src="Assets/linkedIn_image.svg" /> </a>
-    <a href="mailto:mohamed.salem.dev.official@gmail.com"><img
-            src="Assets/gmail_image.svg" /></a>
+  <img
+    src="Assets/bio_section_image.webp"
+    alt="Developer illustration"
+    height="250"
+    width="400"
+    style="border-radius: 8px;"
+  />
 </div>
-<p align="center"> Feel free to contact me on any of these platforms. I'd love to connect with you! </p>
-<!-- Bio Image Section Ends -->
+
+<br />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-salem149" target="_blank">
+    <img src="Assets/linkedIn_image.svg" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamed.salem.dev.official@gmail.com">
+    <img src="Assets/gmail_image.svg" alt="Gmail" />
+  </a>
+</div>
+
+<p align="center">
+  Feel free to connect with me — I'm always open to meaningful conversations and opportunities.
+</p>
 <!-- Bio Section Ends -->
 
-<br><br><br><br><br>
+<br /><br />
 
-<hr>
+<hr />
 
 <!-- Profile Views Section Starts -->
 <h2 style="color: #44AEFB">🔍 GitHub Profile Views:</h2>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=for-the-badge"
-        alt="mosalem149" />
+  <img
+    src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=for-the-badge"
+    alt="GitHub profile views"
+  />
 </p>
 <!-- Profile Views Section Ends -->
 
-<br>
-<hr>
-<br>
+<br />
+<hr />
+<br />
 
-<!-- Profile Trophy Section Starts -->
+<!-- Trophy Section Starts -->
 <h2 style="color: #44AEFB">🏆 GitHub Profile Trophy:</h2>
-<p align="center">
-<div align=center>
-        <img align="center" width="25%"
-            src="https://github-profile-trophy.vercel.app/?mosalem149=ryo-ma&theme=radical"
-            alt="TROPHY" />      
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mosalem149&theme=radical"
+    alt="GitHub profile trophies"
+    width="80%"
+  />
 </div>
-</p>
-<!-- Profile Trophy Section Ends -->
+<!-- Trophy Section Ends -->
 
-<hr>
+<hr />
 
 <!-- About Me Section Starts -->
 <h2 style="color: #44AEFB">
-    <picture><img src="Assets/male.png"
-            width="30px"></picture> About Me:
+  <img src="Assets/male.png" width="30px" alt="About me icon" /> About Me
 </h2>
 
-<br>
+<br />
 
-<picture> <img align="right" src="Assets/Right_Side.gif"
-        width="250px"></picture>
+<div align="center">
+  <img src="Assets/Right_Side.gif" width="250px" alt="Coding animation" />
+</div>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br />
 
-- :school: I am a `Junior` at [Faculty of Computers & Information Science ](https://csifac.mans.edu.eg/index.php/en/) at
-  [Mansoura University](https://www.mans.edu.eg/en).
-- :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate, 2x `IBM` Certificate, `Udemy` Certificate.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front End Developer`, `React Web Developer`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1urziUnRAHfqF0IjgyuNLDR9aLQmu5sPx/view?usp=sharing).
-- :page_facing_up: I'm excited to apply for the position at your company. Here is [MY COVER LETTER](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing).
-- :briefcase: Open to fresh `tech challenges` here is my persona [USER PERSONA](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](https://salems-space-portfolio.netlify.app/).
-- 🔭 I’m currently working on **Graduation-Project fro DEBI Internship**
-- 🌱 I’m currently learning **MERN Full Stack**
-- 👯 I’m looking to collaborate on **Freelance Projects**
-- 🤝 I’m looking for help with **Improvement Projects**
-- 💬 Ask me about **HTML5, CSS3, JS, REACTJS, SaaS, jQuery, Bootstrap**
-- 📫 How to reach me **mohamed.salem.dev.official@gmail.com**
+- 🎓 I graduated from [Faculty of Computers & Information Science](https://csifac.mans.edu.eg/index.php/en/) at [Mansoura University](https://www.mans.edu.eg/en) — Class of 2024.
+- 🏆 I earned certificates from `IoT`, `ITI-ST`, `IBM`, and `Udemy`.
+- 🧠 I enjoy using software as a solution for real-world problems.
+- 💻 I practice competitive programming on `Codeforces` and `LeetCode`.
+- 📚 I’m currently learning `MERN Stack`, `Design Patterns in JavaScript`, and `NoSQL Databases`.
+- 🔭 I’m currently working on a **DEBI Internship Project**.
+- 👯 I’m looking to collaborate on **Freelance Projects**.
+- 🤝 I’m looking for help with **Improvement Projects**.
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node.js, MongoDB, Tailwind CSS, Bootstrap, and SaaS**.
+- 📫 Reach me at **mohamed.salem.dev.official@gmail.com**.
+- ⚡ I’m open to fresh `tech challenges`.
+- 🧾 Here is my [Resume](https://drive.google.com/file/d/1urziUnRAHfqF0IjgyuNLDR9aLQmu5sPx/view?usp=sharing), [Cover Letter](https://drive.google.com/file/d/1pTFD-nYk34pDFVhKmI4vPPNCI_12D44Z/view?usp=sharing), and [User Persona](https://drive.google.com/file/d/1elDofba9tq5mmQnZAkeTB2gr3bWla1me/view?usp=sharing).
+- 🌐 Visit my [Portfolio Website](https://salems-space-portfolio.netlify.app/).
+
 <!-- About Me Section Ends -->
 
-<hr>
+<hr />
 
 <!-- Connect With Me Section Starts -->
-<h2> 📫 Let's Connect..!</h2>
-<br>
-<p align="left">
-    <a href="https://x.com/MohamedSalem149" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="@MohamedSalem149" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/mohamed-salem149" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mohamed-salem149" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/mohamed salem" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="mohamed salem" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/mohamed_salem149?igsh=NHlwaGViamQ1MDF5" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="@mohamed_salem149" height="30" width="40" />
-    </a>
-    <a href="https://codeforces.com/profile/mohamedsalem9" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="mohamedsalem9" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/mohamedsalem9" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="mohamedsalem9" height="30" width="40" />
-    </a>
+<h2>📫 Let's Connect..!</h2>
+
+<p>
+  <a href="https://x.com/MohamedSalem149"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-salem149"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/mohamedsalem"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohamed_salem149?igsh=NHlwaGViamQ1MDF5"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/mohamedsalem9"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" alt="Codeforces" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/mohamedsalem9"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="LeetCode" /></a>
 </p>
 <!-- Connect With Me Section Ends -->
 
-<hr>
+<hr />
 
 <!-- Skills Section Starts -->
-<h2><img src="Assets/tag-emoji.webp"
-        width="25" alt="skills img"> Skills: </h2>
-<br>
+<h2><img src="Assets/tag-emoji.webp" width="25" alt="Skills icon" /> Skills</h2>
+<br />
 
-<p align="center">   
-  
-- **Languages**:
+<p align="center">
 
-    ![Dart](https://img.shields.io/badge/Dart-beginnner-blue?style=for-the-badge&logo=dart&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-beginnner-blue?style=for-the-badge&logo=python&logoColor=white)
-    ![C](https://img.shields.io/badge/C-beginnner-blue?style=for-the-badge&logo=c&logoColor=white)
-    ![Csharp](https://img.shields.io/badge/Csharp-beginnner-blue?style=for-the-badge&logo=csharp&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-beginnner-blue?style=for-the-badge&logo=java&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-beginner-blue?style=for-the-badge&logo=php&logoColor=white)
+- **Languages**:  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-Beginner-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![CSharp](https://img.shields.io/badge/C%23-Beginner-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-Beginner-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-Beginner-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-Beginner-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-    <br>
+  <br />
 
-- **Frameworks**:
+- **Front-End Development**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![ECMAScript](https://img.shields.io/badge/ECMAScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  <br />
+
+- **Frameworks & Libraries**:  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-    <br>
+  <br />
 
-- **Front-End Development**:
+- **Build Tools**:  
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![ECMAScript](https://img.shields.io/badge/ECMAScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
+  <br />
 
-    <br>
-
-- **Databases**:
-
+- **Databases**:  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-    <br>
+  <br />
 
-- **Cloud Hosting**:
+- **Runtime & Backend**:  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-  ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  <br />
 
-    <br>
+- **Cloud & Hosting**:  
+  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-- **Software**:
+  <br />
 
+- **Software & Tools**:  
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Visual StudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=github&logoColor=white)
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-  ![Microsoft SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Terminal](https://img.shields.io/badge/Terminal-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-    <br>
+  <br />
 
-- **Hardware**:
-
-  ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
-  ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![Dell](https://img.shields.io/badge/dell-black?style=for-the-badge&logo=dell&logoColor=white)
-  ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
+- **Hardware**:  
+  ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+  ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![Dell](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+  ![Logitech](https://img.shields.io/badge/Logitech-00B8FC?style=for-the-badge&logo=logitech&logoColor=white)
 
 </p>
 <!-- Skills Section Ends -->
 
-<hr>
+<hr />
 
 <!-- Languages And Tools Section Starts -->
-<h2 style="color: #44AEFB">⚙️ Languages and Tools:</h2>
-
-<p align="left">
-    <!-- Web Development Core Technologies -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="JavaScript" width="40" height="40" />
-    </a>
-    <!-- Frontend Development Libraries & Frameworks -->
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"
-            width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-            alt="Bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass"
-            width="40" height="40" />
-    </a>
-    <a href="https://jquery.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
-            alt="jQuery" width="40" height="40" />
-    </a>
-    <!-- Development Tools and Environments -->
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
-            width="40" height="40" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-            alt="Visual Studio Code" width="40" height="40" />
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-            alt="GitHub" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"
-            width="40" height="40" />
-    </a>
-    <!-- Database & Server Technologies -->
-    <a href="https://www.apachefriends.org/index.html" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="XAMPP" width="40" height="40" />
-        <!-- Placeholder for XAMPP; ensure compliance with usage rights -->
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-            alt="Microsoft SQL Server" width="40" height="40" />
-    </a>
-</p>
-
-<!-- Github Summary Section Starts -->
 <p align="center">
-    <a href="https://github.com/mosalem149/">
-        <img width="45%"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosalem149&theme=gruvbox&layout=compact&hide_border=true"
-            alt="1999AZZAR :: Top Langs by repo" />
-        <img width="45%"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosalem149&theme=gruvbox&layout=compact&hide_border=true"
-            alt="1999AZZAR :: Top Langs by commit" />
-    </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" alt="React" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="35" alt="Tailwind CSS" /></a>
+  <a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="35" alt="Vite" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="35" alt="Bootstrap" /></a>
+  <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35" alt="Sass" /></a>
+  <a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="35" alt="jQuery" /></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" alt="Node.js" /></a>
+  <a href="https://deno.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" width="35" alt="Deno" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" alt="MySQL" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35" alt="Microsoft SQL Server" /></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" alt="VS Code" /></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" alt="Linux" /></a>
 </p>
-<!-- Github Summary Section Ends -->
-<!-- Languages And Tools Section Ends -->
+<!-- Languages And Tools Section End -->
 
-<hr>
+<hr />
+
+<!-- GitHub Summary Section Starts -->
+<p align="center">
+  <a href="https://github.com/mosalem149/">
+    <img
+      width="45%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosalem149&theme=gruvbox&layout=compact&hide_border=true"
+      alt="Top languages by repository"
+    />
+    <img
+      width="45%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosalem149&theme=gruvbox&layout=compact&hide_border=true"
+      alt="Top languages by commit"
+    />
+  </a>
+</p>
+<!-- GitHub Summary Section Ends -->
+
+<hr />
 
 <!-- Statistics Section Starts -->
-<h2><img src="Assets/statistics-emoji.webp" width="35"> Github Statistics: </h2>
+<h2><img src="Assets/statistics-emoji.webp" width="35" alt="stats" /> Github Statistics: </h2>
 
-<br>
+<br />
 
-<!--- Stats & Trophy Section Starts -->
 <p align="center">
-    <!--- Stats Section Starts -->
-<table align="center">
-    <tr border="none">
-        <td width="50%" align="center">
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=mosalem149&theme=dark&show_icons=true&count_private=true" />
-            <br></br>
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=mosalem149&theme=dark&hide_border=false" />
-        </td>
-        <td width="50%" align="center">
-            <img align="center"
-                src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mosalem149&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-        </td>
-    </tr>
-</table>
-<!--- Stats Section Ends -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosalem149&theme=github_dark"
+    alt="Mohamed Salem GitHub profile details"
+    width="80%"
+  />
 </p>
-<!--- Stats & Trophy Section Ends -->
+
+<br />
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=mosalem149&theme=dark"
+        alt="Mohamed Salem GitHub streak stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mosalem149&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"
+        alt="Mohamed Salem top languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 <!-- Statistics Section Ends -->
 
-<hr>
-<h2>📈 Latest Activity Graph: </h2>
-<br>
-<h2 align="center"><img src="Assets/emoji-star.webp" width="30px">&nbsp;Latest Contribution</h2>
-<a href="https://github.com/mosalem149/">
-    <img alt="Mohamed's Activity Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=MoSalem149&theme=github-compact&hide_border=true">
-</a>
-<br>
+<hr />
 
-<hr>
+<!-- Activity Graph Section Starts -->
+<h2>📈 Latest Activity Graph</h2>
+<br />
+<h3 align="center">
+  <img src="Assets/emoji-star.webp" width="30px" alt="Star icon" /> Latest Contribution
+</h3>
+
+<div align="center">
+  <a href="https://github.com/mosalem149/">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mosalem149&theme=github-compact&hide_border=true"
+      alt="Mohamed's activity graph"
+    />
+  </a>
+</div>
+<!-- Activity Graph Section Ends -->
+
+<br />
+
+<hr />
 
 <!-- Snake Game Starts -->
-<h2>🐍</h2>
+<h2>🐍 Contribution Snake</h2>
 <div align="center">
-    <a href="https://github.com/mosalem149/">
-        <img src="Assets/github-contribution-grid-snake-light.svg" alt="snake">
-    </a>
+  <a href="https://github.com/mosalem149/">
+    <img src="Assets/github-contribution-grid-snake-light.svg" alt="Contribution snake animation" />
+  </a>
 </div>
 <!-- Snake Game Ends -->
 
-<hr>
+<hr />
 
-<!-- Better Ending Starts-->
-<div align='center'>
-    <p>👋 <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b></p>
+<!-- Ending Starts -->
+<div align="center">
+  <p>👋 <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b></p>
 </div>
-<!-- Better Ending Ends-->
+<!-- Ending Ends -->
 
-<hr>
+<hr />
 
-<!-- Author  Section Starts -->
+## Credits: [👤 Mohamed Salem](https://github.com/mosalem149)
 
-## Credits: [👤Mohamed Salem](https://github.com/mosalem149)
+Last Edited on: 11/05/2026
 
-Last Edited on: 21/10/2024
-
-<!-- Author Section Ends -->
-
-<hr>
+<hr />
 
 <!-- Footer Section Starts -->
 <footer>
-    <h2>© Footer:</h2>
-    <div style="text-align: center; background-color: #333; color: #fff; padding: 10px;">
-        &copy; 2024 MoSalem149. All Rights Reserved.
-    </div>
+  <h2>© Footer:</h2>
+  <div style="text-align: center; background-color: #333; color: #fff; padding: 10px;">
+    &copy; 2026 MoSalem149. All Rights Reserved.
+  </div>
 </footer>
 <!-- Footer Section Ends -->
 
 <!-- Bottom Section Starts -->
-<img src="Assets/bottom.svg" width="100%" />
-<!-- Bottom Section Starts -->
+<img src="Assets/bottom.svg" width="100%" alt="Footer banner" />
+<!-- Bottom Section Ends -->
