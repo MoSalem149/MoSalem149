@@ -70,7 +70,7 @@
 <h2 style="color: #44AEFB">🏆 GitHub Profile Trophy:</h2>
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=mosalem149&theme=radical"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=mosalem149&theme=radical&rank=-UNKNOWN&column=4"
     alt="GitHub profile trophies"
     width="80%"
   />
@@ -328,7 +328,7 @@
 
 ## Credits: [👤 Mohamed Salem](https://github.com/mosalem149)
 
-Last Edited on: 11/05/2026
+Last Edited on: 08/07/2026
 
 <hr />
 
