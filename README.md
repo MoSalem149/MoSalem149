@@ -3,7 +3,7 @@
 <!-- Header Section Ends -->
 
 <!-- CV Section Starts -->
-<a href="https://drive.google.com/file/d/1i5GkPIFMHBO7qxmiGQkh1S4cJmd13axU/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1PN7_KiXJYvHia1QFMMWkInwxdCGHR2oP/view?usp=sharing" target="_blank">
   <img align="right" src="Assets/cv.png" alt="My CV" width="70" />
 </a>
 <!-- CV Section Ends -->
